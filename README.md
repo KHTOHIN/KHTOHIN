@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kawsar Hamid 👋
 
-<!--
-**KHTOHIN/KHTOHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at **Synesis IT**, Dhaka — building large-scale government systems for Bangladesh.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:** Java · Spring Boot · PHP · Laravel · C# / .NET  
+**Database:** Oracle · MySQL · SQL Server  
+**Tools:** Git · IntelliJ IDEA · PhpStorm · Navicat · Docker · MinIO
+
+### 🏛 Government Projects (Synesis IT)
+
+- **MVTax (BRTA)** — Motor Vehicle Tax & Fees Revenue Collection System; built the New Vehicle module REST API end-to-end
+- **DAE Phyto-Sanitary** — Spring Boot backend: anchorage permits, fee calculation, product setup
+- **Jiban Bima Corporation** — Spring Boot reporting module
+- Contract Farming (DAE) · CCI&E · BWDB
+
+### 🚀 Personal Projects
+
+- [Kayra Terminal](https://github.com/KHTOHIN/Kayra-Terminal) — Windows developer-environment manager (.NET 10)
+- [KayraPHP](https://github.com/KHTOHIN/KayraPHP) — experimental asynchronous PHP framework
+
+### 📫 Connect
+
+[Portfolio](https://kawsarhamid.vercel.app) · [LinkedIn](https://www.linkedin.com/in/kawsar-hamid-tohin/)
